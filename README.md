@@ -1,5 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nahowo&fontSize=90)
 
-<a><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=3776AB"/></a> <a><img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=A8B9CC"/></a>
-
-<!--**nahowo/nahowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨Tech Stack✨
+<h3 align="center"></h3>
+<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000000) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+</p>
