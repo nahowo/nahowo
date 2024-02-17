@@ -1,6 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nahowo&fontSize=90)
+<div align="center">
 
-## 🛠️Tech Stack🛠️
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=nahowo&fontSize=90&stroke=809CC9)
+
+## 📱 Contact&Blog 📝
+![email](https://img.shields.io/badge/Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:nahowo@naver.com)
+[![Velog's GitHub stats](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@nahowo) 
+  
+## 🛠️ Tech Stack 🛠️
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -13,12 +19,10 @@
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nahowo)](https://solved.ac/nahowo/)
+## 🚀 Stats 🚀
+<div align="center">
+  <a href=""><img src="https://streak-stats.demolab.com?user=nahowo&theme=tokyonight&date_format=%5BY.%5Dn.j"/></a>　
+  <a href="https://solved.ac/nahowo"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahowo&theme=dark"/></a>
+</div>
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahowo)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nahowo)](https://velog.io/@nahowo/posts)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nahowo&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+</div>
