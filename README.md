@@ -22,7 +22,7 @@
 ## 🚀 Stats 🚀
 <div align="center">
   <a href=""><img src="https://streak-stats.demolab.com?user=nahowo&theme=tokyonight&date_format=%5BY.%5Dn.j"/></a>　
-  <a href="https://solved.ac/nahowo"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahowo&theme=dark"/></a>
+  <a href=""><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahowo&theme=dark"/></a>
 </div>
 
 </div>
