@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=nahowo&fontSize=90&stroke=809CC9)
 
-<img align="center" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
-
 ## 📱 Contact&Blog 📝
 ![email](https://img.shields.io/badge/Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:nahowo@naver.com)
 [![Velog's GitHub stats](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@nahowo) 
@@ -26,5 +24,12 @@
   <a href=""><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahowo&theme=dark"/></a>　
   <a href=""><img src="https://streak-stats.demolab.com?user=nahowo&theme=tokyonight&date_format=%5BY.%5Dn.j"/></a>
 </div>
+
+
+<img align="center" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+
+[![Teddiursa](https://img.pokemondb.net/sprites/black-white/anim/normal/teddiursa.gif)](https://pokemondb.net/pokedex/teddiursa)
+
+[![Meowth](https://img.pokemondb.net/sprites/black-white/anim/normal/meowth.gif)](https://pokemondb.net/pokedex/meowth)
 
 </div>
