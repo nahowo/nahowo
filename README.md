@@ -21,10 +21,11 @@
 
 ## 🚀 Stats 🚀
 <div align="center">
-  <a href=""><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahowo&theme=dark"/></a>　
+  <a href=""><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nahowo&theme=dark"/></a>
+  <br>
   <a href=""><img src="https://streak-stats.demolab.com?user=nahowo&theme=tokyonight&date_format=%5BY.%5Dn.j"/></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=nahowo&theme=tokyonight"/></a>
 </div>
-
 
 <img align="center" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
 
