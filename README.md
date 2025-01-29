@@ -30,3 +30,5 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/nahowo"/>
 </a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahowo&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
